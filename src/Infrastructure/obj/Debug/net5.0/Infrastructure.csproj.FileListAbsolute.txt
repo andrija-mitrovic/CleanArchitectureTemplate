@@ -1,0 +1,15 @@
+G:\CleanArchitectureTemplate\src\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+G:\CleanArchitectureTemplate\src\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+G:\CleanArchitectureTemplate\src\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+G:\CleanArchitectureTemplate\src\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+G:\CleanArchitectureTemplate\src\Infrastructure\bin\Debug\net5.0\ApplicationCore.dll
+G:\CleanArchitectureTemplate\src\Infrastructure\bin\Debug\net5.0\ApplicationCore.pdb
+G:\CleanArchitectureTemplate\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+G:\CleanArchitectureTemplate\src\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\CleanArchitectureTemplate\src\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+G:\CleanArchitectureTemplate\src\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+G:\CleanArchitectureTemplate\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+G:\CleanArchitectureTemplate\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+G:\CleanArchitectureTemplate\src\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+G:\CleanArchitectureTemplate\src\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+G:\CleanArchitectureTemplate\src\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

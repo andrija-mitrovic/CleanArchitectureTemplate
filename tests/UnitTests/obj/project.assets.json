@@ -5562,20 +5562,20 @@
   },
   "packageFolders": {
     "C:\\Users\\ANDRIJA\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "G:\\CleanArchitectureTemplate\\tests\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\UnitTests\\UnitTests.csproj",
+      "projectPath": "G:\\CleanArchitectureTemplate\\tests\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\ANDRIJA\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\UnitTests\\obj\\",
+      "outputPath": "G:\\CleanArchitectureTemplate\\tests\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
@@ -5642,7 +5642,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

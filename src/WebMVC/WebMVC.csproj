@@ -10,9 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Api\" />
-    <Folder Include="ApiModels\" />
     <Folder Include="Endpoints\" />
+    <Folder Include="ApiModels\" />
+    <Folder Include="Api\" />
   </ItemGroup>
 
 </Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Enqwr4v9AgtUjXn8LEPX1+Bet7px2Xdoejbw5xpa9LQELpVUSfgOeL0953FQ5QekL+g0Q1yxCvWWZBHgJK1NBQ==",
+  "dgSpecHash": "fnenKnamyix3DFaXhefvUVuUOn+A14jvK4zD0UJmMFvwV7hCI/qB6sC4TG7GN61LRX0Z46kkdVCs9pxDg+NS2w==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "G:\\CleanArchitectureTemplate\\tests\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANDRIJA\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\ANDRIJA\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

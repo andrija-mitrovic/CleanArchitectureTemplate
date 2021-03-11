@@ -28,20 +28,20 @@
   },
   "packageFolders": {
     "C:\\Users\\ANDRIJA\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "G:\\CleanArchitectureTemplate\\src\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "G:\\CleanArchitectureTemplate\\src\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ANDRIJA\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\src\\Infrastructure\\obj\\",
+      "outputPath": "G:\\CleanArchitectureTemplate\\src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
@@ -60,8 +60,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\src\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\src\\ApplicationCore\\ApplicationCore.csproj"
+            "G:\\CleanArchitectureTemplate\\src\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "G:\\CleanArchitectureTemplate\\src\\ApplicationCore\\ApplicationCore.csproj"
             }
           }
         }
@@ -90,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

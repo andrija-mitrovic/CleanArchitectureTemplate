@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGScPhUdcNMmv2BfbyN9kFHfuXQQJcTv89O/LYJOCmRc5nvxw2zVqHOqbK1qNMbjIIotlFN1z3S22mMV9GnQYw==",
+  "dgSpecHash": "xkiyj9V6Boh/Chr5KB/9KUOQLSNoWRiWN7wH1m2aFZmAOLZYJa0JUe/96S1ZnURLBSt2Y811B6iN7X0QRBThYQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "G:\\CleanArchitectureTemplate\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

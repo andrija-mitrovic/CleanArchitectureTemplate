@@ -1,0 +1,11 @@
+G:\CleanArchitectureTemplate\src\ApplicationCore\bin\Debug\net5.0\ApplicationCore.deps.json
+G:\CleanArchitectureTemplate\src\ApplicationCore\bin\Debug\net5.0\ApplicationCore.dll
+G:\CleanArchitectureTemplate\src\ApplicationCore\bin\Debug\net5.0\ref\ApplicationCore.dll
+G:\CleanArchitectureTemplate\src\ApplicationCore\bin\Debug\net5.0\ApplicationCore.pdb
+G:\CleanArchitectureTemplate\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+G:\CleanArchitectureTemplate\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.AssemblyInfoInputs.cache
+G:\CleanArchitectureTemplate\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.AssemblyInfo.cs
+G:\CleanArchitectureTemplate\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.csproj.CoreCompileInputs.cache
+G:\CleanArchitectureTemplate\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.dll
+G:\CleanArchitectureTemplate\src\ApplicationCore\obj\Debug\net5.0\ref\ApplicationCore.dll
+G:\CleanArchitectureTemplate\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.pdb

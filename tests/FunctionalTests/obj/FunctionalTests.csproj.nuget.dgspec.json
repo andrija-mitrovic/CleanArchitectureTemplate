@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\FunctionalTests\\FunctionalTests.csproj": {}
+    "G:\\CleanArchitectureTemplate\\tests\\FunctionalTests\\FunctionalTests.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\FunctionalTests\\FunctionalTests.csproj": {
+    "G:\\CleanArchitectureTemplate\\tests\\FunctionalTests\\FunctionalTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\FunctionalTests\\FunctionalTests.csproj",
+        "projectUniqueName": "G:\\CleanArchitectureTemplate\\tests\\FunctionalTests\\FunctionalTests.csproj",
         "projectName": "FunctionalTests",
-        "projectPath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\FunctionalTests\\FunctionalTests.csproj",
+        "projectPath": "G:\\CleanArchitectureTemplate\\tests\\FunctionalTests\\FunctionalTests.csproj",
         "packagesPath": "C:\\Users\\ANDRIJA\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\FunctionalTests\\obj\\",
+        "outputPath": "G:\\CleanArchitectureTemplate\\tests\\FunctionalTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\IntegrationTests\\IntegrationTests.csproj": {}
+    "G:\\CleanArchitectureTemplate\\tests\\IntegrationTests\\IntegrationTests.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\IntegrationTests\\IntegrationTests.csproj": {
+    "G:\\CleanArchitectureTemplate\\tests\\IntegrationTests\\IntegrationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\IntegrationTests\\IntegrationTests.csproj",
+        "projectUniqueName": "G:\\CleanArchitectureTemplate\\tests\\IntegrationTests\\IntegrationTests.csproj",
         "projectName": "IntegrationTests",
-        "projectPath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\IntegrationTests\\IntegrationTests.csproj",
+        "projectPath": "G:\\CleanArchitectureTemplate\\tests\\IntegrationTests\\IntegrationTests.csproj",
         "packagesPath": "C:\\Users\\ANDRIJA\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\IntegrationTests\\obj\\",
+        "outputPath": "G:\\CleanArchitectureTemplate\\tests\\IntegrationTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

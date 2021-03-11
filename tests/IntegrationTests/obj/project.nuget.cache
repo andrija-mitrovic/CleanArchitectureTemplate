@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZCWGLk0+EBdII1mI57FGHXYT3Nl40GzQ7AAmyJZJA3PAg1qNG9AGSzf8+PgDy6JCcp6i5GN+ws3AnHUxMtoc/w==",
+  "dgSpecHash": "iIHbjhp551kzIBgTyZZCPXy7jwbr8+Ljm0HLccCaepEF8uk3CJHsAkE8FSSPDL6VdBgbruQD1zJz5CvD06QvDA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\ASP .NET Core\\CleanArchitecture\\tests\\IntegrationTests\\IntegrationTests.csproj",
+  "projectFilePath": "G:\\CleanArchitectureTemplate\\tests\\IntegrationTests\\IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANDRIJA\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\ANDRIJA\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
